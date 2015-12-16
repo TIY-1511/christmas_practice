@@ -1,5 +1,7 @@
 # christmas_practice
 
+These are some exercises for you try. They are optional, if you manage to do at least one, it will probably help you to remember what we have covered in Rails!
+
 As we have not covered user management yet, the following sites should let all users do everything and all users share the same data.
 
 ## santas_list 
